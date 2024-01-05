@@ -6,7 +6,7 @@ Se realiza un scraping de los repositorios web de la Universidad Peruana Cayetan
 utilizando la librería [rvest](https://github.com/tidyverse/rvest) (R version >= 4.3.2). 
 
 ## Archivos
-- scraper_thesis: Script con el codigo del proyecto
+- scraping_thesis: Script con el codigo del proyecto
 - output:
   - tesis_psicología_upch: Documento excel con el resultado obtenido del primer ejemplo 
   - tesis_psicología_upc: Documento excel con el resultado obtenido del segundo ejemplo 
